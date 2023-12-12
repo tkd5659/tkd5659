@@ -1,15 +1,16 @@
 
-                                                                            안녕하세요
+<p>안녕하세요</p>
 
-                                                                개발자로 이제 발 돋음 한 이상훈 입니다.
+<p>개발자로 이제 발 돋음 한 이상훈 입니다.</p>
                                                             
-                                                            어제보다 오늘이 오늘보다 내일이 더 기대되는 개발자가
-                                      
-                                                                    되기위해 최선을 다 하겠습니다.
+<p>어제보다 오늘이 오늘보다 내일이 더 기대되는 개발자가</p>
+  
+<p>되기위해 최선을 다 하겠습니다.</p>
                                                                   
 
 <div>
-🧑‍💻Skill List
+<br>
+<strong>🧑‍💻Skill List</strong>
 <br> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -29,8 +30,9 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">    
 </div>
 
-<div>  
-👨‍💻Used Tool
+<div>
+<br>  
+<strong>👨‍💻Used Tool</strong>
 <br>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
